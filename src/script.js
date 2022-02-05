@@ -58,6 +58,11 @@ studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
 
+//Task 9:Update the code so it only uses the let keyword.
+let catName = "Oliver";
+let catSound = "Meow!";
+
+
 
 
 
