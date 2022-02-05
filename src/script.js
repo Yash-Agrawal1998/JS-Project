@@ -94,6 +94,9 @@ let myVar = 11;
 const ourDecimal = 5.7;
 var myDecimal=5.7;
 
+//Task 18:Change the 0.0 so that product will equal 5.0.
+const product = 2.0 * 2.5;
+
 
 
 
