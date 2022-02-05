@@ -77,6 +77,9 @@ const difference = 45 - 33;
 //Task 13:Change the 0 so that product will equal 80.
 const product = 8 * 10;
 
+//Task 14:Change the 0 so that the quotient is equal to 2.
+const quotient = 66 / 33;
+
 
 
 
