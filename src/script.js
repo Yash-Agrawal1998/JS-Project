@@ -71,6 +71,11 @@ console.log(FCC, fact); // Change this line
 //Task 11:Change the 0 so that sum will equal 20.
 const sum = 10 + 10;
 
+//Task 12:Change the 0 so the difference is 12.
+const difference = 45 - 33;
+
+
+
 
 
 
