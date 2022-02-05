@@ -267,3 +267,13 @@ myArray.unshift(["Paul", 35]);
 
 //Task 48:There should be at least 5 sub-arrays in the list.
 const myList = [["Chocolate Bar", 15],["Chocolate Bar", 15],["Chocolate Bar", 15],["Chocolate Bar", 15],["Chocolate Bar", 15]];
+
+/*Task 49:1Create a function called reusableFunction which prints the string Hi World to the dev console.
+2.Call the function.*/
+function reusableFunction()
+{
+  console.log("Hi World");
+}
+
+reusableFunction();
+
