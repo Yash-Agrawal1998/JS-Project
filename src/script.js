@@ -284,3 +284,9 @@ function functionWithArgs(a,b)
 }
 functionWithArgs(4,5);
 
+//Task 51:Create a function timesFive that accepts one argument, multiplies it by 5, and returns the new value.
+function timesFive (a)
+{
+  return a*5;
+}
+
