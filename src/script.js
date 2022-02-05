@@ -144,3 +144,9 @@ const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Ch
 
 //Task 26:Change the provided string to a string with single quotes at the beginning and end and no escape characters.
 const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+
+/*Task 27:Assign the following three lines of text into the single variable myStr using escape sequences.
+FirstLine
+\SecondLine
+ThirdLine*/
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
