@@ -219,3 +219,6 @@ const wordBlanks = myAdjective+" "+myNoun+" "+myVerb+" "+myAdverb+" ."; // Chang
 // Only change code below this line
 const myArray = ["abs", 254];
 
+//Task 40:Create a nested array called myArray.
+const myArray = [["Bulls", 23], ["White Sox", 45]];
+
