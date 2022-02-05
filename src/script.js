@@ -162,3 +162,9 @@ myStr+="This is the second sentence.";
 const myName = "Ram";
 const myStr = "My name is "+myName+" and I am well.";
 
+//Task 31:Set someAdjective to a string of at least 3 characters and append it to myStr using the += operator.
+const someAdjective = "A b c";
+let myStr = "Learning to code is ";
+myStr+=someAdjective;
+
+
