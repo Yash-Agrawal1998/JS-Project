@@ -97,6 +97,9 @@ var myDecimal=5.7;
 //Task 18:Change the 0.0 so that product will equal 5.0.
 const product = 2.0 * 2.5;
 
+//Task 19:Change the 0.0 so that quotient will equal to 2.2.
+const quotient = 4.4 / 2.0; // Change this line
+
 
 
 
