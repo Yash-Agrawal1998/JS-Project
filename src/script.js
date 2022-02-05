@@ -226,3 +226,9 @@ const myArray = [["Bulls", 23], ["White Sox", 45]];
 const myArray = [50, 60, 70];
 var myData=myArray[0];
 
+//Task 42:Modify the data stored at index 0 of myArray to a value of 45.
+// Setup
+const myArray = [18, 64, 99];
+// Only change code below this line
+myArray[0]=45;
+
