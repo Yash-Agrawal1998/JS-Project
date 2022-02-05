@@ -222,3 +222,7 @@ const myArray = ["abs", 254];
 //Task 40:Create a nested array called myArray.
 const myArray = [["Bulls", 23], ["White Sox", 45]];
 
+//Task 41:Create a variable called myData and set it to equal the first value of myArray using bracket notation.
+const myArray = [50, 60, 70];
+var myData=myArray[0];
+
