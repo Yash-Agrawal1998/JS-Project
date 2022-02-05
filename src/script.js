@@ -68,6 +68,9 @@ let fact = "is cool!"; // Change this line
 fact = "is awesome!";
 console.log(FCC, fact); // Change this line
 
+//Task 11:Change the 0 so that sum will equal 20.
+const sum = 10 + 10;
+
 
 
 
