@@ -100,6 +100,9 @@ const product = 2.0 * 2.5;
 //Task 19:Change the 0.0 so that quotient will equal to 2.2.
 const quotient = 4.4 / 2.0; // Change this line
 
+//Task 20:Set remainder equal to the remainder of 11 divided by 3 using the remainder (%) operator.
+const remainder = 11%3;
+
 
 
 
