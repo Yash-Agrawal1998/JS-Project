@@ -141,3 +141,6 @@ c /= 11;
 
 //Task 25:Use backslashes to assign a string to the myStr variable so that if you were to print it to the console, you would see:I am a "double quoted" string inside "double quotes".
 const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
+
+//Task 26:Change the provided string to a string with single quotes at the beginning and end and no escape characters.
+const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
